@@ -1,1 +1,1 @@
-This section contains all the circuit diagram images.
+This section contains the image of circuit diagram.
