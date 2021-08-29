@@ -11,4 +11,4 @@ The mask and the sanitizer are provided everywhere to protect the people from sp
 
 A long press is made with the footer, such that the mechanical stress is made on the instrument. The mechanical stress made, is forced to spray out the Sanitizer liquid. The human at aged people is unable to use this system as there is mechanical stress and there is a sudden liquid force coming from the sanitizer bottle.
 
-The Easy Non-Contact Automatic Hand Sanitizer Dispenser or Automatic Soap Dispenser with Arduino UNO, it has the Atmega328p microcontroller to control the sanitizer liquid with the help of a Servo motor. This is used to power up the system by the external power supply of 9V battery or through computer.
+The Easy Non-Contact Automatic Hand Sanitizer Dispenser or Automatic Soap Dispenser with Arduino UNO, it has the Atmega328p microcontroller to control the sanitizer liquid with the help of a Servo motor. This is used to power up the system by the external power supply of 9V battery.
